@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('../../assets/Background.png');
+    background-size: cover;
+    background-position: center;
+    height: 1071px;
+    width: 1920px
+}

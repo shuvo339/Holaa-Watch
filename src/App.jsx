@@ -1,7 +1,9 @@
+import Home from "./components/Home/Home";
+
 function App() {
   return (
-    <div>
-      <h2 className="bg-red-500">Heloo</h2>
+    <div className="w-[1920px] mx-auto">
+      <Home></Home>
     </div>
   );
 }
